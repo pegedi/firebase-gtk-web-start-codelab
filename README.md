@@ -6,3 +6,5 @@
 use the follwing command to see index.html
 
     node servesample.js
+
+https://firebase.google.com/codelabs/firebase-get-to-know-web#0
